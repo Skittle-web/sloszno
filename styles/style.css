@@ -356,7 +356,7 @@
 
 .text__link{
   text-decoration: none;
-  text-shadow: 2px 2px 0px var(--text-shadow);
+  text-shadow: 2px 2px 0px var(--text-shadow-1);
 }
 
 
